@@ -1,0 +1,21 @@
+DRIVING_LICENCE = 'DL'
+PASSPORT = 'PP'
+ID_CARD = 'ID'
+RESIDENCE_PERMIT = 'RP'
+UTILITY_BILL = 'UB'
+
+IDS_NAMES = {
+    DRIVING_LICENCE: 'Driving licence',
+    PASSPORT: 'Passport',
+    ID_CARD: 'ID card',
+    RESIDENCE_PERMIT: 'Residence permit',
+    UTILITY_BILL: 'Utility bill',
+}
+
+DOC_TYPES = [
+    DRIVING_LICENCE,
+    PASSPORT,
+    ID_CARD,
+    RESIDENCE_PERMIT,
+    # UTILITY_BILL
+]

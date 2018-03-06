@@ -1,0 +1,4 @@
+.git/
+app/__pycache__/
+app/.cache/
+libs/
